@@ -1,9 +1,6 @@
 # 23googleWeek
 ---
 <html>
-<head>
-  <title>Google I/O23 최신 기술 총정리</title>
-</head>
 <body>
   <h1>Google I/O23 최신 기술 총정리</h1>
   <h2>Google Play 광고</h2>
